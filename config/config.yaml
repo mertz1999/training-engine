@@ -1,0 +1,21 @@
+augs:
+- Rescaling : 0.004
+- RandomRotation : 0.1
+- RandomZoom : 0.1
+- RandomFlip : "horizontal_and_vertical"
+
+model_name : 'ConvNeXtTiny'
+
+
+# 'ConvNeXtBase'    
+# 'ConvNeXtLarge'   
+# 'ConvNeXtSmall'   
+# 'ConvNeXtTiny'    
+# 'ConvNeXtXLarge'  
+# 'EfficientNetV2B0'
+# 'EfficientNetV2B1'
+# 'EfficientNetV2B2'
+# 'EfficientNetV2B3'
+# 'EfficientNetV2L' 
+# 'EfficientNetV2M' 
+# 'EfficientNetV2S' 
